@@ -1,4 +1,5 @@
 # Number Guessing Game
+[click here to play this game https://number-guessing-game-dohzbtme2wktkx6ds4zbrs.streamlit.app/]
 
 A simple Python game in which the computer selects a random number
 and the player tries to guess it.
